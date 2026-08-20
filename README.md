@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Evangelin Hosanna E.S
 
-<!--
-**hosanna-evaz04/hosanna-evaz04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst | 3rd Year IT Student
 
-Here are some ideas to get you started:
+I'm an IT student interested in turning data into clear insights and useful business information. Currently building my foundation in SQL, Power BI, and Excel through practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+* SQL
+* Power BI
+* Microsoft Excel
+
+## Featured Project
+
+**Food Demand, Pricing & Promotion Analysis**
+
+A Power BI dashboard focused on food demand, pricing, promotion performance, estimated revenue, and fulfillment center performance.
+
+## Currently Learning
+
+* Python for Data Analysis
+* Numpy
+* Pandas
+* Advanced SQL
+* Data Visualization
+* Business Intelligence
+
+## Career Focus
+
+I'm working towards a career in Data Analytics, with a focus on SQL, dashboard development, data visualization, and business insights.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/evangelin-hosanna/)
