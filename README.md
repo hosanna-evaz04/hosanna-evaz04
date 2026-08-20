@@ -27,7 +27,7 @@ A Power BI dashboard focused on food demand, pricing, promotion performance, est
 
 ## Career Focus
 
-I'm working towards a career in Data Analytics, with a focus on SQL, dashboard development, data visualization, and business insights.
+I'm working towards a career in Data Analytics, with a focus on SQL, data visualization, dashboard analysis, and business insights.
 
 ## Connect
 
